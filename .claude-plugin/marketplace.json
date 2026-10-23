@@ -1,0 +1,14 @@
+{
+  "name": "dnd-master",
+  "owner": {
+    "name": "Egor Gladkov (Dezodemius)",
+    "url": "https://github.com/Dezodemius"
+  },
+  "plugins": [
+    {
+      "name": "dnd-master",
+      "source": "./",
+      "description": "Помогает мастеру (DM) Dungeons & Dragons 5e готовить материал к игре: цельные приключения и ваншоты, NPC и фракции, сбалансированные энкаунтеры и боёвку, локации, подземелья и лор."
+    }
+  ]
+}

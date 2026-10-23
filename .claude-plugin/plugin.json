@@ -1,0 +1,17 @@
+{
+  "name": "dnd-master",
+  "description": "Помогает мастеру (DM) Dungeons & Dragons 5e готовить материал к игре: цельные приключения и ваншоты, NPC и фракции, сбалансированные энкаунтеры и боёвку, локации, подземелья и лор.",
+  "author": {
+    "name": "Egor Gladkov (Dezodemius)",
+    "url": "https://github.com/Dezodemius"
+  },
+  "homepage": "https://github.com/Dezodemius/dnd-master",
+  "repository": "https://github.com/Dezodemius/dnd-master",
+  "license": "Apache-2.0",
+  "keywords": [
+    "dnd",
+    "dnd5e",
+    "ttrpg",
+    "agent-skill"
+  ]
+}
